@@ -1,0 +1,1 @@
+{"rewrites":[{"destination":"/api/index?route=quote","source":"/quote"},{"destination":"/api/index?route=openapi","source":"/openapi.json"},{"destination":"/api/index?route=x402","source":"/.well-known/x402"},{"destination":"/api/index?route=root","source":"/"}]}
